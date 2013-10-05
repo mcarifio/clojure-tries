@@ -24,10 +24,16 @@ Setup
   wget https://raw.github.com/technomancy/leiningen/stable/bin/lein
   chmod a+x lein
   export PATH=$CLOJURE_ROOT/bin:$PATH
-  lein version
+  lein version ## jar installe in ~/.lein/self-install
+  Leiningen 2.3.2 on Java 1.8.0-ea Java HotSpot(TM) 64-Bit Server VM
   </pre></code>
 
 
 TODO
 ====
+
+* Better way to handle code fragments in Markdown?
+
+* Using git for ticket management?
+
 
